@@ -1,4 +1,4 @@
-import { HelloWorld } from "../src/index";
+import { HelloWorld } from "../src/main";
 
 describe("HelloWorld", () => {
   it("returns hello world", () => {
